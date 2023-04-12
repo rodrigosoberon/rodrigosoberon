@@ -29,41 +29,49 @@ ___
 ### Backend Ecommerce
 ` Backend ` ` Express ` ` MongoDb ` ` JWT ` ` Handlebars `
 
-RESTful API for Backend career in Coderhouse academy, which consists of a server for ecommerce application. Implemented with Node JS and Express for the server and MongoDB for the database, using a MVC structure. It has an authentication system with JWT and password encryption, products, carts and orders management. Chat channels with websockets.
+**RESTful API** for Backend career in Coderhouse academy, which consists of a server for ecommerce application. Implemented with **Node JS** and **Express** for the server and **MongoDB** for the database, using a **MVC** structure. It has an authentication system with JWT and password encryption, products, carts and orders management. Chat channels with **websockets**.
 
 [**Source code**](https://github.com/rodrigosoberon/backend-ecommerce)
 
 ### Gastronomic Business
 ` Fullstack ` ` .Net ` ` MS-SQL ` ` WinForm `
 
-Computer Systems Analyst final degree project. Designed and implemented a software solution for gastronomic businesses management. C# with .Net Framework for the backend, Windows Forms for the frontend and a relational database in MS-SQL Server. Designed in 4 layers, with authentication system, database encryption with SHA and MD5, backup management, multilanguage UI, system log, customized reports and data integrity with check digits.
+Computer Systems Analyst final degree project. Designed and implemented a software solution for gastronomic businesses management. **C#** with **.Net Framework** for the backend, Windows Forms for the frontend and a relational database in **MS-SQL Server**. Designed in 4 layers, with authentication system, database encryption with SHA and MD5, backup management, multilanguage UI, system log, customized reports and data integrity with check digits.
 
 [**Source code**](https://github.com/rodrigosoberon/negocios-gastronomicos)
 
 ### My Reactive Store
 ` Fullstrack ` ` React ` ` Firestore `
 
-React JS final course project for Coderhouse academy, which consisted of a technology products store. React JS library was used for the frontend, Firebase for the backend and Firestore for the database. It was implemented as SPA (Single Page Application) and routing with React Router. It has shopping cart functionality, order completion and stock discount.
+React JS final course project for Coderhouse academy, which consisted of a technology products store. **React JS** library was used for the frontend, **Firebase** for the backend and **Firestore** for the database. It was implemented as SPA (Single Page Application) and routing with React Router. It has shopping cart functionality, order completion and stock discount.
 
 [**Source code**](https://github.com/rodrigosoberon/mi-tienda-reactiva) | [**Web site**](https://rodrigosoberon.github.io/mi-tienda-reactiva/)
 
 ### Clavistore Project
 ` Frontend ` ` Bootstrap `
 
-Web development project for real client offered by Coderhouse academy for Top-10 students. We were provided with the design and images and a 6-week deadline for the source code delivery and the Web site hosted in a free server. Basic SEO (Search Engine Optimization) techniques were applied and Bootstrap framework was used for responsiveness and site menu.
+Web development project for real client offered by Coderhouse academy for Top-10 students. We were provided with the design and images and a 6-week deadline for the source code delivery and the Web site hosted in a free server. Basic **SEO** (Search Engine Optimization) techniques were applied and **Bootstrap** framework was used for responsiveness and site menu.
 
 [**Source code**](https://github.com/rodrigosoberon/proyecto-clavistore) | [**Web site**](https://rodrigosoberon.github.io/proyecto-clavistore/)
 
 ### Poliestudio Web
 ` Frontend `
 
-Architecture company web site to showcase portfolio works (images, videos and virtual tours). It was implemented Sweetalert2 library and a custom script using a translation dictionary to make it a multilanguage site.
+Architecture company web site to showcase portfolio works (images, videos and virtual tours). It was implemented **Sweetalert2** library and a custom script using a translation dictionary to make it a multilanguage site.
 
 [**Source code**](https://github.com/rodrigosoberon/poli-estudio-plus) | [**Web site**](https://www.poliestudio.com/)
+
+### Expense Tracker
+` Fullstack ` ` React JS ` ` Mongo DB ` ` Express JS ` ` JWT `
+
+Full-stack **MERN** demo application project to apply all knowledge gained from different courses and tutorials. It consists of a **React** frontend, a **Node.js-Express** backend (RESTful API) and a **MongoDB Atlas** database, in which the user can register, login, add, edit and delete expenses. Security is provided by **JSON Web Tokens** and password hashing.
+
+[**Source code**](https://github.com/rodrigosoberon/snowball-expense-tracker) | [**Web site**](https://rodrigosoberon.github.io/snowball-expense-tracker/)
 
 ### Capybara Veterinary
 ` Frontend ` ` Bootstrap ` ` Sass `
 
-Static web page for a fictitious veterinary clinic for the final project of the Web Development course at Coderhouse. HTML, Sass and Bootstrap were used for responsive "mobile-first" site. Basic SEO (Search Engine Optimization) techniques were applied.
+Static web page for a fictitious veterinary clinic for the final project of the Web Development course at Coderhouse. **HTML**, **Sass** and **Bootstrap** were used for responsive "mobile-first" site. Basic **SEO** (Search Engine Optimization) techniques were applied.
 
 [**Source code**](https://github.com/rodrigosoberon/veterinaria-capybara) | [**Web site**](https://rodrigosoberon.github.io/veterinaria-capybara/)
+
