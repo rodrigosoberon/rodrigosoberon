@@ -1,11 +1,11 @@
 # Rodrigo Soberon
 systems analyst | full stack developer
 
-[Portfolio site](https://rsdev.website/)
+[Portfolio site](https://rsdev.ar/)
 ___
 ## About me
-- A bilingual full-stack developer with knowledge in technologies related to Javascript (MERN stack), Python (Django framework) and C# .NET
-- I have experience in business processes and leading projects with multicultural teams
+- I'm a **bilingual Systems Analyst** with more than 10 years of experience in **business processes**. Currently working fulltime as **Data Analyst** for Microsoft, and developing technologies in the **Javascript** ecosystem as a freelancer
+- I successfully **led projects** with multicultural teams for software maintenance and improvement
 
 ### Education
 - **Computer Systems Analyst** - Universidad Abierta Interamericana - 2022
